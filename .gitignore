@@ -9,7 +9,7 @@
 /coverage
 
 # production
-/buildunity
+/public/buildunity
 
 # misc
 .DS_Store
