@@ -8,3 +8,7 @@
   justify-content: center;
   background-color: #b89cac;
 }
+
+.loadingText {
+  position: absolute;
+}
